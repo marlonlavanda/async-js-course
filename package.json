@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonlavanda/async-js-course.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Marlon Lavanda <marlonlavanda@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marlonlavanda/async-js-course/issues"
+  },
+  "homepage": "https://github.com/marlonlavanda/async-js-course#readme"
+}
